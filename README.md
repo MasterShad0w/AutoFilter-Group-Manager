@@ -6,13 +6,13 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/MasterShad0w/AutoFilter-Group-Manager?style=flat-square&color=yellow)](https://github.com/MasterShad0w/AutoFilter-Group-Manager/stargazers)
+[![Forks](https://img.shields.io/github/forks/MasterShad0w/AutoFilter-Group-Manager?style=flat-square&color=orange)](https://github.com/MasterShad0w/AutoFilter-Group-Manager/fork)
+[![Size](https://img.shields.io/github/repo-size/MasterShad0w/AutoFilter-Group-Manager?style=flat-square&color=green)](https://github.com/MasterShad0w/AutoFilter-Group-Manager/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/MasterShad0w/AutoFilter-Group-Manager)   
+[![Contributors](https://img.shields.io/github/contributors/MasterShad0w/AutoFilter-Group-Manager?style=flat-square&color=green)](https://github.com/MasterShad0w/AutoFilter-Group-Manager/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/MasterShad0w/AutoFilter-Group-Manager/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/MasterShad0w/AutoFilter-Group-Manager.svg)](https://stars.medv.io/MasterShad0w/AutoFilter-Group-Manager)
 
 
 ## Features
