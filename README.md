@@ -57,7 +57,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-[Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MasterShad0w/AutoFilter-Group-Manager)</br
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MasterShad0w/Movie-Adda-Storage)</br>
 
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
